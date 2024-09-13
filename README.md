@@ -176,7 +176,9 @@ print(x_single_prediction)
 
 
 ### New Sample Data Prediction
-![l6](https://github.com/user-attachments/assets/7dae6baf-6f62-42a1-9be0-444751928e2b)
+![o1](https://github.com/user-attachments/assets/608966e1-6d26-46d5-b061-864e2a0e2252)
+
+![o2](https://github.com/user-attachments/assets/656ea4cf-b618-4a2d-b905-8fec7222efa6)
 
 
 
