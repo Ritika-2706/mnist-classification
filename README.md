@@ -139,6 +139,7 @@ print(confusion_matrix(y_test,x_test_predictions))
 
 print(classification_report(y_test,x_test_predictions))
 
+print("Ritika S  212221240046")
 img = image.load_img('img5.jpg')
 type(img)
 img = image.load_img('img5.jpg')
@@ -151,7 +152,6 @@ x_single_prediction = np.argmax(model.predict(img_28_gray_scaled.reshape(1,28,28
 
 print(x_single_prediction)
 
-print("Ritika S  212221240046")
 plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 img_28_gray_inverted = 255.0-img_28_gray
