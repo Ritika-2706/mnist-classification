@@ -125,8 +125,12 @@ metrics = pd.DataFrame(model.history.history)
 
 metrics.head()
 
+print("Ritika S")
+print("212221240046")
 metrics[['accuracy','val_accuracy']].plot()
 
+print("Ritika S")
+print("212221240046")
 metrics[['loss','val_loss']].plot()
 
 x_test_predictions = np.argmax(model.predict(X_test_scaled), axis=1)
@@ -147,6 +151,7 @@ x_single_prediction = np.argmax(model.predict(img_28_gray_scaled.reshape(1,28,28
 
 print(x_single_prediction)
 
+print("Ritika S  212221240046")
 plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 img_28_gray_inverted = 255.0-img_28_gray
