@@ -9,6 +9,8 @@ Digit classification and to verify the response for scanned handwritten images.
 
 The MNIST dataset is a collection of handwritten digits. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. The dataset has a collection of 60,000 handwrittend digits of size 28 X 28. Here we build a convolutional neural network model that is able to classify to it's appropriate numerical value.
 
+![image](https://github.com/user-attachments/assets/d7bf300f-5b48-47fe-9574-de984332a34e)
+
 ## Neural Network Model
 
 ![f1](https://github.com/user-attachments/assets/faeba2ea-c787-45ba-902b-820ab9a46f55)
